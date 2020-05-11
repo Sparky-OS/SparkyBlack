@@ -1,0 +1,14 @@
+[kdeglobals][KDE]
+widgetStyle=sparkyblack
+
+[kdeglobals][General]
+ColorScheme=Oxygen
+
+[kdeglobals][Icons]
+Theme=sparkyblack
+
+[plasmarc][Theme]
+name=sparkyblack
+
+[kcminputrc][Mouse]
+cursorTheme=Oxygen_Black
