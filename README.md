@@ -1,6 +1,6 @@
 Sparky Black
 
-This contains the SparkyOS default KDE Theme based on Breeze, Oxygen, Lines and others themes
+This contains the SparkyOS default KDE Theme based on Breeze, Oxygen, Lines and other themes
 
 Copyright (C) 2018-2020 Paweł Pijanowski & Daniel Campos Ramos
 
@@ -12,4 +12,6 @@ You should have received a copy of the GNU General Public License along with thi
 
 Dependencies:
 
-kde sddm plymouth
+- kde
+- sddm
+- plymouth

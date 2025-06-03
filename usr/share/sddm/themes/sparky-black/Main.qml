@@ -61,7 +61,7 @@ Image {
     Controls.StackView {
         id: stackView
 
-        //Display the loginpromt only in the primary screen
+        //Display the login prompt only in the primary screen
         readonly property rect geometry: screenModel.geometry(screenModel.primary)
         width: geometry.width
         x: geometry.x
