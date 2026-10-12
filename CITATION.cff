@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "SparkyBlack: the Sparky black theme for KDE Plasma"
+abstract: "The Sparky black theme for KDE Plasma, with SDDM and Plymouth themes, icons and cursors, based on Breeze, Oxygen, Lines and other themes."
+authors:
+  - family-names: "Ramos"
+    given-names: "Daniel Campos"
+    orcid: "https://orcid.org/0009-0001-4546-8673"
+license: GPL-3.0-or-later
+repository-code: "https://github.com/Sparky-OS/SparkyBlack"
+keywords:
+  - "KDE Plasma"
+  - "theme"
+  - "SDDM"
+  - "Plymouth"
+  - "icons"
+  - "SparkyLinux"
