@@ -1,0 +1,28 @@
+{
+  "title": "SparkyBlack: the Sparky black theme for KDE Plasma",
+  "description": "The Sparky black theme for KDE Plasma, with SDDM and Plymouth themes, icons and cursors, based on Breeze, Oxygen, Lines and other themes.",
+  "creators": [
+    {
+      "name": "Ramos, Daniel Campos",
+      "orcid": "0009-0001-4546-8673"
+    }
+  ],
+  "license": "gpl-3.0-or-later",
+  "upload_type": "software",
+  "access_right": "open",
+  "keywords": [
+    "KDE Plasma",
+    "theme",
+    "SDDM",
+    "Plymouth",
+    "icons",
+    "SparkyLinux"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://sparkylinux.org/",
+      "relation": "isPartOf",
+      "scheme": "url"
+    }
+  ]
+}
