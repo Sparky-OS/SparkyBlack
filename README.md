@@ -1,5 +1,7 @@
 Sparky Black
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23309036.svg)](https://doi.org/10.5281/zenodo.23309036)
+
 This contains the SparkyOS default KDE Theme based on Breeze, Oxygen, Lines and other themes
 
 Copyright (C) 2018-2020 Paweł Pijanowski & Daniel Campos Ramos
